@@ -3,3 +3,5 @@ config-repo/
   hr-worker-dev.yml
   hr-payroll.yml
   hr-payroll-dev.yml
+
+test.config=Teste config for server
