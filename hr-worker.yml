@@ -1,0 +1,5 @@
+config-repo/
+  hr-worker.yml
+  hr-worker-dev.yml
+  hr-payroll.yml
+  hr-payroll-dev.yml
